@@ -1,0 +1,3 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'DM Sans', system-ui, sans-serif; background: #ffffff; color: #1a1a1a; }
+input[type="range"] { cursor: pointer; accent-color: #1D9E75; }
